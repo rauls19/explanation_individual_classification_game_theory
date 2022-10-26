@@ -7,10 +7,10 @@
 
 ## How to use it
 
-1- Initialise model
-2- Initialise miniCoalitionalGame 
-3- (Optional) Check your model compatibility
-4- Execute the explainer (automatically checks if the model is available
+- Initialise model
+- Initialise miniCoalitionalGame 
+- (Optional) Check your model compatibility
+- Execute the explainer (automatically checks if the model is available
 
 ### Examples
 
