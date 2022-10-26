@@ -56,7 +56,7 @@ class miniCoalitionalGame:
     def __calculusContribution(self, target, model, data_x, data_y, data_x_test, m):
         fi_i = 0
         counter_No_Preivalues = 0
-        for j in range(1, (m+1)):
+        for _ in range(m):
             try:
                 O = np.random.permutation(data_x.columns)
                 y = data_x_test.sample()
