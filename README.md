@@ -10,7 +10,7 @@
 - Initialise model
 - Initialise miniCoalitionalGame 
 - (Optional) Check your model compatibility
-- Execute the explainer (automatically checks if the model is available
+- Execute the explainer (automatically checks if the model is available)
 
 ### Examples
 
